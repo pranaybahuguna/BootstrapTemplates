@@ -62,7 +62,7 @@ Add the SSH key to your GitHub account.
 
 
 
-********** Attaching SSH to remote repository **********
+********** Attaching local SSH to remote repository **********
 Copy the SSH key to your clipboard.
 
 If your SSH key file has a different name than the example code, modify the filename to match your current setup. When copying your key, don't add any newlines or whitespace.
